@@ -1,3 +1,8 @@
+
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
 void getTime (int &h, int &m){
   cout<<"Inout hour & min:";
   cin>>h>>m;
