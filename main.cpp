@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-
+ 
 void getTime(int& h, int& m) {
   cout << "Input hour & minute: ";
   cin >> h >> m;
